@@ -1,4 +1,4 @@
-# How does GPT-3 work?
+# How does GPT-3 work
 
 ## Zero shot learning
 Model prediction only based on natural language description, and no assistance.
@@ -13,7 +13,7 @@ GPT-3 is a few shot learner.
 GPT-4 performs very well at few shot learning, but can handle zero shot.
 
 Cost of pretraining GPT-3 is around $4.6M, and has 96 transformer layers, 175B params.  
-GPT-3 dataset
+[GPT-3 dataset](https://github.com/DrNayak2306/LLM/blob/main/gpt3_dataset.png)
 
 __Token__ - A unit of text which the model reads.
 
